@@ -1,0 +1,14 @@
+{
+  "name": "react-hook-api-lib",
+  "version": "1.0.0",
+  "description": "A React hooks library for form handling and API requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivam shrivastava",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
